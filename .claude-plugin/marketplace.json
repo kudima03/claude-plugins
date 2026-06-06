@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "kudima03",
+  "description": "Claude Code plugins by kudima03",
+  "owner": {
+    "name": "kudima03",
+    "email": "kudima03@gmail.com",
+    "url": "https://github.com/kudima03"
+  },
+  "plugins": [
+    {
+      "name": "nuget-publish-skill",
+      "version": "0.1.0",
+      "description": "Full NuGet publish workflow: version analysis, API compatibility check, suppressions PR, tag push, and baseline update for any .NET library using EnablePackageValidation.",
+      "homepage": "https://github.com/kudima03/nuget-publish-skill",
+      "repository": "https://github.com/kudima03/nuget-publish-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["nuget", "dotnet", "publish", "release", "versioning", "package", "csharp"],
+      "author": {
+        "name": "kudima03",
+        "email": "kudima03@gmail.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "kudima03/nuget-publish-skill"
+      }
+    }
+  ]
+}
