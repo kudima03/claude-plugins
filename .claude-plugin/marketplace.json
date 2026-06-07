@@ -9,6 +9,25 @@
   },
   "plugins": [
     {
+      "name": "npm-publish-skill",
+      "version": "0.1.0",
+      "description": "Full npm publish workflow: change analysis, version suggestion, annotated tag push. package.json stays at 0.0.0 — git tag is the source of truth.",
+      "homepage": "https://github.com/kudima03/npm-publish-skill",
+      "repository": "https://github.com/kudima03/npm-publish-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["npm", "nodejs", "publish", "release", "versioning", "package", "javascript", "typescript"],
+      "author": {
+        "name": "kudima03",
+        "email": "kudima03@gmail.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "kudima03/npm-publish-skill",
+        "ref": "0.1.0"
+      }
+    },
+    {
       "name": "nuget-publish-skill",
       "version": "0.2.0",
       "description": "Full NuGet publish workflow: version analysis, API compatibility check, suppressions PR, tag push, and baseline update for any .NET library using EnablePackageValidation.",
