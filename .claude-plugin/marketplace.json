@@ -29,8 +29,8 @@
     },
     {
       "name": "nuget-publish-skill",
-      "version": "0.4.2",
-      "description": "Full NuGet publish workflow: version analysis, API compatibility check, suppressions PR, tag push, and baseline update for any .NET library using EnablePackageValidation.",
+      "version": "0.5.0",
+      "description": "Full NuGet publish workflow: version analysis, API compatibility check, suppressions PR, tag push, baseline update, documentation reference updates, and changelog generation for any .NET library using EnablePackageValidation.",
       "homepage": "https://github.com/kudima03/nuget-publish-skill",
       "repository": "https://github.com/kudima03/nuget-publish-skill",
       "license": "MIT",
@@ -43,7 +43,7 @@
       "source": {
         "source": "github",
         "repo": "kudima03/nuget-publish-skill",
-        "ref": "0.4.2"
+        "ref": "0.5.0"
       }
     },
     {
