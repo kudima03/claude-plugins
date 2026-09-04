@@ -45,6 +45,25 @@
         "repo": "kudima03/nuget-publish-skill",
         "ref": "0.4.2"
       }
+    },
+    {
+      "name": "semantic-commit-skill",
+      "version": "0.2.0",
+      "description": "Analyze staged changes and create a semantic commit message following conventional commit standards.",
+      "homepage": "https://github.com/kudima03/semantic-commit-skill",
+      "repository": "https://github.com/kudima03/semantic-commit-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["git", "commit", "semantic-commit", "conventional-commits", "changelog"],
+      "author": {
+        "name": "kudima03",
+        "email": "kudima03@gmail.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "kudima03/semantic-commit-skill",
+        "ref": "0.2.0"
+      }
     }
   ]
 }
