@@ -83,6 +83,25 @@
         "repo": "kudima03/pr-skill",
         "ref": "0.1.0"
       }
+    },
+    {
+      "name": "changelog-generator-skill",
+      "version": "0.1.0",
+      "description": "Generate a user-facing changelog from git commit history by categorizing commits and translating them into customer-friendly release notes.",
+      "homepage": "https://github.com/kudima03/changelog-generator-skill",
+      "repository": "https://github.com/kudima03/changelog-generator-skill",
+      "license": "Apache-2.0",
+      "category": "productivity",
+      "keywords": ["git", "changelog", "release-notes", "documentation", "versioning"],
+      "author": {
+        "name": "kudima03",
+        "email": "kudima03@gmail.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "kudima03/changelog-generator-skill",
+        "ref": "0.1.0"
+      }
     }
   ]
 }

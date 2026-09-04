@@ -22,3 +22,4 @@ A personal Claude Code plugin marketplace by [kudima03](https://github.com/kudim
 | [nuget-publish-skill](https://github.com/kudima03/nuget-publish-skill) | Full NuGet publish workflow: version analysis, API compat check, suppressions PR, tag push, baseline update |
 | [semantic-commit-skill](https://github.com/kudima03/semantic-commit-skill) | Analyze staged changes and create a semantic commit message following conventional commit standards |
 | [pr-skill](https://github.com/kudima03/pr-skill) | Analyze the commits on the current branch and create a well-documented pull request via `gh pr create` |
+| [changelog-generator-skill](https://github.com/kudima03/changelog-generator-skill) | Generate a user-facing changelog from git commit history, translating commits into customer-friendly release notes |
