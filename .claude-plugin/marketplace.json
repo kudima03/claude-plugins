@@ -64,6 +64,25 @@
         "repo": "kudima03/semantic-commit-skill",
         "ref": "0.3.0"
       }
+    },
+    {
+      "name": "pr-skill",
+      "version": "0.1.0",
+      "description": "Analyze the commits on the current branch and create a well-documented pull request via gh pr create.",
+      "homepage": "https://github.com/kudima03/pr-skill",
+      "repository": "https://github.com/kudima03/pr-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["git", "github", "pull-request", "pr", "gh", "documentation"],
+      "author": {
+        "name": "kudima03",
+        "email": "kudima03@gmail.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "kudima03/pr-skill",
+        "ref": "0.1.0"
+      }
     }
   ]
 }
