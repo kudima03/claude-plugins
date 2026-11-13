@@ -102,6 +102,25 @@
         "repo": "kudima03/changelog-generator-skill",
         "ref": "0.1.0"
       }
+    },
+    {
+      "name": "bump-pr-sweep-skill",
+      "version": "0.1.0",
+      "description": "Sweep GitHub notifications (read and unread) for dependency bump PRs; approve and merge-commit the ones that only bump workflows, test projects or submodule pointers when CI is green, and report the rest.",
+      "homepage": "https://github.com/kudima03/bump-pr-sweep-skill",
+      "repository": "https://github.com/kudima03/bump-pr-sweep-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["github", "dependabot", "renovate", "dependencies", "pull-request", "merge", "ci", "gh"],
+      "author": {
+        "name": "kudima03",
+        "email": "kudima03@gmail.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "kudima03/bump-pr-sweep-skill",
+        "ref": "0.1.0"
+      }
     }
   ]
 }
