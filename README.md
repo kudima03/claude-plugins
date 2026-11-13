@@ -23,3 +23,4 @@ A personal Claude Code plugin marketplace by [kudima03](https://github.com/kudim
 | [semantic-commit-skill](https://github.com/kudima03/semantic-commit-skill) | Analyze staged changes and create a semantic commit message following conventional commit standards |
 | [pr-skill](https://github.com/kudima03/pr-skill) | Analyze the commits on the current branch and create a well-documented pull request via `gh pr create` |
 | [changelog-generator-skill](https://github.com/kudima03/changelog-generator-skill) | Generate a user-facing changelog from git commit history, translating commits into customer-friendly release notes |
+| [bump-pr-sweep-skill](https://github.com/kudima03/bump-pr-sweep-skill) | Sweep GitHub notifications for bump PRs; approve and merge-commit green workflow/test/submodule bumps, report the rest |
